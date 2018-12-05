@@ -1,7 +1,7 @@
 'use strict';
-const Mongoose = require('mongoose');
+// const Mongoose = require('mongoose');
 const Boom = require('boom');
-const User = Models.User
+// const User = Models.User
 const nodemailer = require('nodemailer');
 
 module.exports = {
